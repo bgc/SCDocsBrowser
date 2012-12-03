@@ -1,0 +1,11 @@
+{
+  "name": "SCCode.org code search",
+  "description": "Searches SCCode.org documentation for the highlighted word",
+  "version": "0.1",
+  "icons": {"16" : "images/16.png", "48" : "images/48.png", "128" : "images/128.png"},
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["sample.js", "docmap.js"]
+  },
+  "manifest_version": 2
+}
