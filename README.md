@@ -6,7 +6,7 @@ Chrome/Chromium extension to search sccode.org for a highlighted word in the bro
 Install instructions
 =============
 
-This extension has an installer located at the downloads page, if you prefer the manual install from the source, the instructions are the following:
+This extension has an installer located at the [downloads](http://github.com/bgc/SCDocsBrowser/downloads) page, if you prefer the manual install from the source, the instructions are the following:
 
 1 — Open the extensions window in the browser, located at Tools/Extensions
 
